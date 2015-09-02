@@ -29,6 +29,7 @@ A splash.html kódjának pedig valami hasonló képp kell kinéznie:
 
 A(z) "/etc/init.d/nodogsplash start" parancssal elindíthatjuk a NoDogSplash-t.
 A(z) "/usr/bin/ndsctl status" paranccsal kérhetjük le a NoDogSplash státuszát.
+![Alt text](https://github.com/mZoltan05/freewifi/blob/master/ndsctl.png "ndsctl")
 
 A splash lapot a böngészőben a router hálózati IP-címén és a "nodogsplash.conf"-ban beállított porton érhetjük el.
 pl: 192.168.1.2:2050
